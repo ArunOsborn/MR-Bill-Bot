@@ -6,8 +6,7 @@ import json
 import socket
 import discord
 import discord.ext.commands
-import mrbill.main
-from mrbill import main
+from mrbill import Bill
 
 # Local imports
 from log_handling import *
@@ -144,8 +143,10 @@ class MyClient(discord.ext.commands.Bot):
 			return
 
 		print(message.content)
-		biller = mrbill.Bill(text=message.content)
-		await message.channel.send(biller.getTotalsPrintout)
+		biller = Bill.Bill(text=message.content)
+		totalsPrintout = biller.getTotalsPrintout()
+		print(totalsPrintout)
+		await message.channel.send(totalsPrintout)
 
 		if message.content.startswith(PREFIX):
 			message.content = message.content[1:]
