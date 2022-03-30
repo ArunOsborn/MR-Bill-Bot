@@ -6,6 +6,7 @@ import json
 import socket
 import discord
 import discord.ext.commands
+import mrbill.main
 from mrbill import main
 
 # Local imports
@@ -133,8 +134,6 @@ class MyClient(discord.ext.commands.Bot):
 		"""Runs on message."""
 
 		logger.debug("Message sent by " + message.author.name)  # Event log
-		biller = Bill(text=message.content)
-		await message.channel.send(biller.getTotalsPrintout)
 
 		# Don't respond to yourself
 		if message.author.id == self.user.id:
@@ -144,7 +143,12 @@ class MyClient(discord.ext.commands.Bot):
 		if message.author.bot is True:  # !!! Needs to be tested. Can replace "message.author.id == self.user.id" if so. Same goes for reactions.
 			return
 
+		print(message.content)
+		biller = mrbill.Bill(text=message.content)
+		await message.channel.send(biller.getTotalsPrintout)
 
+		if message.content.startswith(PREFIX):
+			message.content = message.content[1:]
 			# Locate command
 			if message.content == "locate":
 				logger.info("`locate` called by " + message.author.name)  # Event log
