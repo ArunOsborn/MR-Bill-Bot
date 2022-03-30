@@ -145,8 +145,8 @@ class MyClient(discord.ext.commands.Bot):
 		print(message.content)
 		biller = Bill.Bill(text=message.content)
 		totalsPrintout = biller.getTotalsPrintout()
-		print(totalsPrintout)
-		await message.channel.send(totalsPrintout)
+		if len(biller.items) != 0:
+			await message.channel.send(totalsPrintout)
 
 		if message.content.startswith(PREFIX):
 			message.content = message.content[1:]

@@ -229,3 +229,56 @@
 30/03/2022 17:30:58.380 | DEBUG | main.py | on_message | Message sent by MR Bill
 30/03/2022 17:31:01.974 | DEBUG | main.py | on_message | Message sent by MUIArun
 30/03/2022 17:31:02.149 | DEBUG | main.py | on_message | Message sent by MR Bill
+30/03/2022 17:35:29.862 | DEBUG | main.py | on_ready | Connected!
+30/03/2022 17:35:29.863 | INFO | main.py | on_ready | MR Bill is ready (finished on_ready)
+30/03/2022 17:35:29.863 | INFO | main.py | on_ready | MR Bill is ready (commencing on_ready)
+30/03/2022 17:35:29.864 | INFO | main.py | on_ready | MR Bill is connected to the following guilds:
+30/03/2022 17:35:29.864 | INFO | main.py | on_ready |     Arun Testing Co. (ID: 834213187468394517)
+30/03/2022 17:35:29.864 | INFO | main.py | on_ready |     Arun Shipping Co. (ID: 870789318501871706)
+30/03/2022 17:35:38.551 | DEBUG | main.py | on_message | Message sent by MUIArun
+30/03/2022 17:35:38.734 | DEBUG | main.py | on_message | Message sent by MR Bill
+30/03/2022 17:36:19.134 | DEBUG | main.py | on_message | Message sent by MUIArun
+30/03/2022 17:36:19.429 | DEBUG | main.py | on_message | Message sent by MR Bill
+30/03/2022 17:36:27.222 | DEBUG | main.py | on_message | Message sent by MUIArun
+30/03/2022 17:36:27.457 | DEBUG | main.py | on_message | Message sent by MR Bill
+30/03/2022 17:38:15.012 | DEBUG | main.py | on_message | Message sent by MUIArun
+30/03/2022 17:38:16.421 | DEBUG | main.py | on_message | Message sent by MR Bill
+30/03/2022 17:38:16.441 | INFO | main.py | on_message | `kill` called by MUIArun
+30/03/2022 17:38:16.442 | DEBUG | main.py | get_uptime | Calculated uptime
+30/03/2022 17:38:16.704 | INFO | main.py | on_disconnect | Bot disconnected
+30/03/2022 17:38:40.945 | DEBUG | main.py | on_ready | Connected!
+30/03/2022 17:38:40.945 | INFO | main.py | on_ready | MR Bill is ready (finished on_ready)
+30/03/2022 17:38:40.945 | INFO | main.py | on_ready | MR Bill is ready (commencing on_ready)
+30/03/2022 17:38:40.946 | INFO | main.py | on_ready | MR Bill is connected to the following guilds:
+30/03/2022 17:38:40.946 | INFO | main.py | on_ready |     Arun Testing Co. (ID: 834213187468394517)
+30/03/2022 17:38:40.946 | INFO | main.py | on_ready |     Arun Shipping Co. (ID: 870789318501871706)
+30/03/2022 17:38:45.227 | DEBUG | main.py | on_message | Message sent by MUIArun
+30/03/2022 17:38:45.469 | DEBUG | main.py | on_message | Message sent by MR Bill
+30/03/2022 17:39:30.991 | DEBUG | main.py | on_ready | Connected!
+30/03/2022 17:39:30.991 | INFO | main.py | on_ready | MR Bill is ready (finished on_ready)
+30/03/2022 17:39:30.991 | INFO | main.py | on_ready | MR Bill is ready (commencing on_ready)
+30/03/2022 17:39:30.991 | INFO | main.py | on_ready | MR Bill is connected to the following guilds:
+30/03/2022 17:39:30.991 | INFO | main.py | on_ready |     Arun Testing Co. (ID: 834213187468394517)
+30/03/2022 17:39:30.991 | INFO | main.py | on_ready |     Arun Shipping Co. (ID: 870789318501871706)
+30/03/2022 17:39:32.889 | DEBUG | main.py | on_message | Message sent by MUIArun
+30/03/2022 17:39:33.086 | DEBUG | main.py | on_message | Message sent by MR Bill
+30/03/2022 17:40:54.761 | DEBUG | main.py | on_message | Message sent by MUIArun
+30/03/2022 17:40:55.043 | DEBUG | main.py | on_message | Message sent by MR Bill
+30/03/2022 17:41:39.004 | DEBUG | main.py | on_ready | Connected!
+30/03/2022 17:41:39.005 | INFO | main.py | on_ready | MR Bill is ready (finished on_ready)
+30/03/2022 17:41:39.006 | INFO | main.py | on_ready | MR Bill is ready (commencing on_ready)
+30/03/2022 17:41:39.006 | INFO | main.py | on_ready | MR Bill is connected to the following guilds:
+30/03/2022 17:41:39.007 | INFO | main.py | on_ready |     Arun Testing Co. (ID: 834213187468394517)
+30/03/2022 17:41:39.008 | INFO | main.py | on_ready |     Arun Shipping Co. (ID: 870789318501871706)
+30/03/2022 17:41:42.592 | DEBUG | main.py | on_message | Message sent by MUIArun
+30/03/2022 17:42:27.983 | DEBUG | main.py | on_ready | Connected!
+30/03/2022 17:42:27.984 | INFO | main.py | on_ready | MR Bill is ready (finished on_ready)
+30/03/2022 17:42:27.984 | INFO | main.py | on_ready | MR Bill is ready (commencing on_ready)
+30/03/2022 17:42:27.984 | INFO | main.py | on_ready | MR Bill is connected to the following guilds:
+30/03/2022 17:42:27.985 | INFO | main.py | on_ready |     Arun Testing Co. (ID: 834213187468394517)
+30/03/2022 17:42:27.985 | INFO | main.py | on_ready |     Arun Shipping Co. (ID: 870789318501871706)
+30/03/2022 17:42:33.097 | DEBUG | main.py | on_message | Message sent by MUIArun
+30/03/2022 17:42:34.987 | DEBUG | main.py | on_message | Message sent by MUIArun
+30/03/2022 17:42:36.786 | DEBUG | main.py | on_message | Message sent by MUIArun
+30/03/2022 17:42:36.980 | DEBUG | main.py | on_message | Message sent by MR Bill
+30/03/2022 17:42:38.787 | DEBUG | main.py | on_message | Message sent by MUIArun
