@@ -143,7 +143,12 @@ class MyClient(discord.ext.commands.Bot):
 			return
 
 		print(message.content)
-		biller = Bill.Bill(text=message.content)
+		if len(message.attachments) > 0:
+			if message.attachments[0].content_type.startswith("text/plain"):
+				print(message.attachments[0].url)
+				biller = Bill.Bill(path=message.attachments[0].url)
+		else:
+			biller = Bill.Bill(text=message.content)
 		totalsPrintout = biller.getTotalsPrintout()
 		if len(biller.items) != 0:
 			await message.channel.send(totalsPrintout)
