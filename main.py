@@ -8,6 +8,8 @@ import discord
 import discord.ext.commands
 from mrbill import Bill
 
+from create_thread import create_thread, create_thread_message
+
 # Local imports
 from log_handling import *
 
@@ -151,7 +153,9 @@ class MyClient(discord.ext.commands.Bot):
 			biller = Bill.Bill(text=message.content)
 		totalsPrintout = biller.getTotalsPrintout()
 		if len(biller.items) != 0:
-			await message.channel.send(totalsPrintout)
+			thread = await message.channel.create_thread(name="Bill", minutes=60, message=message)
+
+			await create_thread_message(TOKEN, thread, totalsPrintout) # Sends message in newly created thread
 
 		if message.content.startswith(PREFIX):
 			message.content = message.content[1:]
@@ -178,6 +182,7 @@ class MyClient(discord.ext.commands.Bot):
 if __name__ == "__main__":
 
 	try:
+		discord.TextChannel.create_thread = create_thread
 		setup_config()
 		intents = discord.Intents.all()
 		intents.members = True

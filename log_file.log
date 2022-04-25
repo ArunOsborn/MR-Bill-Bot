@@ -525,3 +525,137 @@
 01/04/2022 23:48:14.071 | DEBUG | main.py | on_message | Message sent by MUIArun
 01/04/2022 23:48:18.508 | DEBUG | main.py | on_message | Message sent by MUIArun
 01/04/2022 23:48:49.537 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 14:19:19.782 | DEBUG | main.py | on_ready | Connected!
+16/04/2022 14:19:19.797 | INFO | main.py | on_ready | MR Bill is ready (finished on_ready)
+16/04/2022 14:19:19.798 | INFO | main.py | on_ready | MR Bill is ready (commencing on_ready)
+16/04/2022 14:19:19.798 | INFO | main.py | on_ready | MR Bill is connected to the following guilds:
+16/04/2022 14:19:19.798 | INFO | main.py | on_ready |     Humphrey's Bean Zone (ID: 808266016614121512)
+16/04/2022 14:19:19.798 | INFO | main.py | on_ready |     Arun Testing Co. (ID: 834213187468394517)
+16/04/2022 14:19:19.799 | INFO | main.py | on_ready |     Arun Shipping Co. (ID: 870789318501871706)
+16/04/2022 14:20:14.321 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 14:20:14.572 | DEBUG | main.py | on_message | Message sent by MR Bill
+16/04/2022 14:27:28.011 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 14:27:28.262 | DEBUG | main.py | on_message | Message sent by MR Bill
+16/04/2022 14:35:07.127 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 14:35:07.402 | DEBUG | main.py | on_message | Message sent by MR Bill
+16/04/2022 14:38:07.528 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 14:40:22.470 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 14:40:24.095 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 14:40:41.172 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 15:20:27.376 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+16/04/2022 15:21:17.725 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 15:22:34.228 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+16/04/2022 15:39:49.533 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 15:40:16.037 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 15:40:28.520 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+16/04/2022 15:40:31.482 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+16/04/2022 15:40:40.250 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+16/04/2022 15:53:20.456 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 15:53:24.274 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 15:53:28.928 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 15:53:37.897 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+16/04/2022 16:06:59.910 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 16:09:15.621 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+16/04/2022 16:09:52.949 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 16:09:55.369 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+16/04/2022 16:10:02.821 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+16/04/2022 16:10:07.563 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 16:10:14.580 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+16/04/2022 16:10:18.442 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+16/04/2022 16:10:29.528 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 16:10:37.205 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 16:10:42.044 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+16/04/2022 16:10:47.001 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 16:10:49.617 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+16/04/2022 16:10:51.859 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+16/04/2022 16:11:02.078 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+16/04/2022 16:11:20.380 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 16:11:27.944 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+16/04/2022 16:11:34.138 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 16:11:45.024 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 16:12:48.295 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+16/04/2022 16:12:55.971 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+16/04/2022 16:12:59.086 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+16/04/2022 16:13:46.338 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 16:14:42.868 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+16/04/2022 16:14:50.803 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+16/04/2022 16:14:54.646 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 16:15:00.632 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+16/04/2022 16:15:02.874 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+16/04/2022 16:15:09.693 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 16:15:41.244 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 16:15:49.967 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 16:16:16.699 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+16/04/2022 16:16:32.174 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+16/04/2022 16:16:40.836 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+16/04/2022 16:17:05.490 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 16:17:11.207 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 16:17:35.961 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 16:18:12.373 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+16/04/2022 16:18:41.573 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+16/04/2022 16:19:02.178 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+16/04/2022 16:23:09.133 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 16:23:47.708 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 16:24:02.885 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+16/04/2022 16:24:09.637 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+16/04/2022 16:24:29.396 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 16:24:43.907 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 17:12:12.685 | INFO | main.py | on_disconnect | Bot disconnected
+16/04/2022 21:01:16.168 | DEBUG | main.py | on_message | Message sent by its_notjack
+16/04/2022 22:00:39.156 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 22:00:45.557 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 22:00:51.075 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 22:03:15.238 | DEBUG | main.py | on_message | Message sent by MUIArun
+16/04/2022 22:47:15.513 | DEBUG | main.py | on_message | Message sent by its_notjack
+16/04/2022 22:47:17.453 | DEBUG | main.py | on_message | Message sent by its_notjack
+17/04/2022 00:02:20.236 | DEBUG | main.py | on_message | Message sent by MUIArun
+17/04/2022 00:02:30.028 | DEBUG | main.py | on_message | Message sent by MUIArun
+17/04/2022 00:02:39.534 | DEBUG | main.py | on_message | Message sent by MUIArun
+17/04/2022 00:02:43.672 | DEBUG | main.py | on_message | Message sent by MUIArun
+25/04/2022 12:21:13.198 | DEBUG | main.py | on_ready | Connected!
+25/04/2022 12:21:13.198 | INFO | main.py | on_ready | MR Bill is ready (finished on_ready)
+25/04/2022 12:21:13.199 | INFO | main.py | on_ready | MR Bill is ready (commencing on_ready)
+25/04/2022 12:21:13.200 | INFO | main.py | on_ready | MR Bill is connected to the following guilds:
+25/04/2022 12:21:13.200 | INFO | main.py | on_ready |     Humphrey's Bean Zone (ID: 808266016614121512)
+25/04/2022 12:21:13.200 | INFO | main.py | on_ready |     Arun Testing Co. (ID: 834213187468394517)
+25/04/2022 12:21:13.200 | INFO | main.py | on_ready |     Arun Shipping Co. (ID: 870789318501871706)
+25/04/2022 12:21:34.521 | DEBUG | main.py | on_message | Message sent by MUIArun
+25/04/2022 12:22:52.221 | DEBUG | main.py | on_ready | Connected!
+25/04/2022 12:22:52.221 | INFO | main.py | on_ready | MR Bill is ready (finished on_ready)
+25/04/2022 12:22:52.221 | INFO | main.py | on_ready | MR Bill is ready (commencing on_ready)
+25/04/2022 12:22:52.221 | INFO | main.py | on_ready | MR Bill is connected to the following guilds:
+25/04/2022 12:22:52.222 | INFO | main.py | on_ready |     Humphrey's Bean Zone (ID: 808266016614121512)
+25/04/2022 12:22:52.222 | INFO | main.py | on_ready |     Arun Testing Co. (ID: 834213187468394517)
+25/04/2022 12:22:52.222 | INFO | main.py | on_ready |     Arun Shipping Co. (ID: 870789318501871706)
+25/04/2022 12:22:54.323 | DEBUG | main.py | on_message | Message sent by MUIArun
+25/04/2022 12:23:45.161 | DEBUG | main.py | on_ready | Connected!
+25/04/2022 12:23:45.162 | INFO | main.py | on_ready | MR Bill is ready (finished on_ready)
+25/04/2022 12:23:45.162 | INFO | main.py | on_ready | MR Bill is ready (commencing on_ready)
+25/04/2022 12:23:45.162 | INFO | main.py | on_ready | MR Bill is connected to the following guilds:
+25/04/2022 12:23:45.162 | INFO | main.py | on_ready |     Humphrey's Bean Zone (ID: 808266016614121512)
+25/04/2022 12:23:45.170 | INFO | main.py | on_ready |     Arun Testing Co. (ID: 834213187468394517)
+25/04/2022 12:23:45.171 | INFO | main.py | on_ready |     Arun Shipping Co. (ID: 870789318501871706)
+25/04/2022 12:23:48.528 | DEBUG | main.py | on_message | Message sent by MUIArun
+25/04/2022 12:24:11.479 | DEBUG | main.py | on_ready | Connected!
+25/04/2022 12:24:11.480 | INFO | main.py | on_ready | MR Bill is ready (finished on_ready)
+25/04/2022 12:24:11.480 | INFO | main.py | on_ready | MR Bill is ready (commencing on_ready)
+25/04/2022 12:24:11.480 | INFO | main.py | on_ready | MR Bill is connected to the following guilds:
+25/04/2022 12:24:11.481 | INFO | main.py | on_ready |     Humphrey's Bean Zone (ID: 808266016614121512)
+25/04/2022 12:24:11.481 | INFO | main.py | on_ready |     Arun Testing Co. (ID: 834213187468394517)
+25/04/2022 12:24:11.481 | INFO | main.py | on_ready |     Arun Shipping Co. (ID: 870789318501871706)
+25/04/2022 12:24:14.171 | DEBUG | main.py | on_message | Message sent by MUIArun
+25/04/2022 12:33:18.036 | DEBUG | main.py | on_message | Message sent by chef
+25/04/2022 12:33:21.615 | DEBUG | main.py | on_message | Message sent by chef
+25/04/2022 12:33:23.263 | DEBUG | main.py | on_message | Message sent by chef
+25/04/2022 12:36:41.667 | DEBUG | main.py | on_message | Message sent by MUIArun
+25/04/2022 12:36:49.405 | DEBUG | main.py | on_message | Message sent by MUIArun
+25/04/2022 12:36:57.460 | DEBUG | main.py | on_message | Message sent by MUIArun
+25/04/2022 12:48:20.659 | DEBUG | main.py | on_ready | Connected!
+25/04/2022 12:48:20.660 | INFO | main.py | on_ready | MR Bill is ready (finished on_ready)
+25/04/2022 12:48:20.660 | INFO | main.py | on_ready | MR Bill is ready (commencing on_ready)
+25/04/2022 12:48:20.660 | INFO | main.py | on_ready | MR Bill is connected to the following guilds:
+25/04/2022 12:48:20.661 | INFO | main.py | on_ready |     Humphrey's Bean Zone (ID: 808266016614121512)
+25/04/2022 12:48:20.661 | INFO | main.py | on_ready |     Arun Testing Co. (ID: 834213187468394517)
+25/04/2022 12:48:20.661 | INFO | main.py | on_ready |     Arun Shipping Co. (ID: 870789318501871706)
+25/04/2022 12:48:45.814 | DEBUG | main.py | on_message | Message sent by MUIArun
+25/04/2022 12:49:17.173 | DEBUG | main.py | on_message | Message sent by MUIArun
