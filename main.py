@@ -141,14 +141,14 @@ class MyClient(discord.ext.commands.Bot):
 			return
 
 		# Don't respond to other bots
-		if message.author.bot is True:  # !!! Needs to be tested. Can replace "message.author.id == self.user.id" if so. Same goes for reactions.
+		if message.author.bot is True:
 			return
 
-		#print(message.content)
 		if len(message.attachments) > 0:
 			if message.attachments[0].content_type.startswith("text/plain"):
 				#print(message.attachments[0].url)
 				biller = Bill.Bill(path=message.attachments[0].url)
+				await message.channel.send("Attachments are not fully supported but we'll have a go...")
 		else:
 			biller = Bill.Bill(text=message.content)
 		totalsPrintout = biller.getTotalsPrintout()
@@ -156,7 +156,7 @@ class MyClient(discord.ext.commands.Bot):
 		if len(biller.items) != 0:
 			thread = await message.channel.create_thread(name=f"Bill of £{round(biller.totalCost)}", minutes=60, message=message)
 
-			await create_thread_message(TOKEN, thread, content="something",embeds=totalsPrintout) # Sends message in newly created thread
+			await create_thread_message(TOKEN, thread, content=None,embeds=totalsPrintout) # Sends message in newly created thread
 
 		if message.content.startswith(PREFIX):
 			message.content = message.content[1:]
