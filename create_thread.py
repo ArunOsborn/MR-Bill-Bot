@@ -20,6 +20,15 @@ async def create_thread(self, name, minutes, message): # https://pastebin.com/kA
 async def create_thread_message(token,thread,content, tts=False, embeds=None): # Made from the corpse of helminth
     token = 'Bot ' + token
     channel_id = int(thread["id"])
+
+    # Converts embed(s) into json
+    try:
+        length = len(embeds)
+        for x in range(length):
+            embeds[x] = embeds[x].to_dict()
+    except TypeError:
+        embeds = [embeds.to_dict()]
+
     headers = {
         "authorization": token,
         "content-type": "application/json"

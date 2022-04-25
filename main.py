@@ -152,10 +152,11 @@ class MyClient(discord.ext.commands.Bot):
 		else:
 			biller = Bill.Bill(text=message.content)
 		totalsPrintout = biller.getTotalsPrintout()
+		totalsPrintout = discord.Embed(title=f"Bill of £{round(biller.totalCost)}",description=totalsPrintout,colour=0X378805)
 		if len(biller.items) != 0:
 			thread = await message.channel.create_thread(name=f"Bill of £{round(biller.totalCost)}", minutes=60, message=message)
 
-			await create_thread_message(TOKEN, thread, totalsPrintout) # Sends message in newly created thread
+			await create_thread_message(TOKEN, thread, content="something",embeds=totalsPrintout) # Sends message in newly created thread
 
 		if message.content.startswith(PREFIX):
 			message.content = message.content[1:]
