@@ -62,7 +62,7 @@ class MyClient(discord.ext.commands.Bot):
 		self.connected = True  # Starts true so on first boot, it won't think its restarted
 		self.start_time = datetime.now()
 		self.last_disconnect = datetime.now()
-		self.activity = discord.Activity(type=discord.ActivityType.streaming, name="NFTs")
+		self.activity = discord.Activity(type=discord.ActivityType.streaming, name="with your money")
 
 		# Prints logs to the console
 		if DEBUG is True:
@@ -144,16 +144,16 @@ class MyClient(discord.ext.commands.Bot):
 		if message.author.bot is True:  # !!! Needs to be tested. Can replace "message.author.id == self.user.id" if so. Same goes for reactions.
 			return
 
-		print(message.content)
+		#print(message.content)
 		if len(message.attachments) > 0:
 			if message.attachments[0].content_type.startswith("text/plain"):
-				print(message.attachments[0].url)
+				#print(message.attachments[0].url)
 				biller = Bill.Bill(path=message.attachments[0].url)
 		else:
 			biller = Bill.Bill(text=message.content)
 		totalsPrintout = biller.getTotalsPrintout()
 		if len(biller.items) != 0:
-			thread = await message.channel.create_thread(name="Bill", minutes=60, message=message)
+			thread = await message.channel.create_thread(name=f"Bill of £{round(biller.totalCost)}", minutes=60, message=message)
 
 			await create_thread_message(TOKEN, thread, totalsPrintout) # Sends message in newly created thread
 

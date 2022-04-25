@@ -659,3 +659,42 @@
 25/04/2022 12:48:20.661 | INFO | main.py | on_ready |     Arun Shipping Co. (ID: 870789318501871706)
 25/04/2022 12:48:45.814 | DEBUG | main.py | on_message | Message sent by MUIArun
 25/04/2022 12:49:17.173 | DEBUG | main.py | on_message | Message sent by MUIArun
+25/04/2022 12:51:01.899 | DEBUG | main.py | on_message | Message sent by chef
+25/04/2022 12:51:10.255 | DEBUG | main.py | on_message | Message sent by chef
+25/04/2022 12:51:14.412 | DEBUG | main.py | on_message | Message sent by chef
+25/04/2022 12:51:14.704 | DEBUG | main.py | on_message | Message sent by MUIArun
+25/04/2022 12:51:24.740 | DEBUG | main.py | on_message | Message sent by MUIArun
+25/04/2022 12:51:34.403 | DEBUG | main.py | on_message | Message sent by MUIArun
+25/04/2022 12:51:40.738 | DEBUG | main.py | on_message | Message sent by chef
+25/04/2022 12:51:42.194 | DEBUG | main.py | on_message | Message sent by chef
+25/04/2022 12:51:44.811 | DEBUG | main.py | on_message | Message sent by MUIArun
+25/04/2022 12:51:47.410 | DEBUG | main.py | on_message | Message sent by chef
+25/04/2022 12:51:48.938 | DEBUG | main.py | on_message | Message sent by chef
+25/04/2022 12:51:57.920 | DEBUG | main.py | on_message | Message sent by MUIArun
+25/04/2022 12:52:03.327 | DEBUG | main.py | on_message | Message sent by MUIArun
+25/04/2022 12:52:05.649 | DEBUG | main.py | on_message | Message sent by MUIArun
+25/04/2022 12:52:34.780 | DEBUG | main.py | on_ready | Connected!
+25/04/2022 12:52:34.780 | INFO | main.py | on_ready | MR Bill is ready (finished on_ready)
+25/04/2022 12:52:34.780 | INFO | main.py | on_ready | MR Bill is ready (commencing on_ready)
+25/04/2022 12:52:34.780 | INFO | main.py | on_ready | MR Bill is connected to the following guilds:
+25/04/2022 12:52:34.780 | INFO | main.py | on_ready |     Humphrey's Bean Zone (ID: 808266016614121512)
+25/04/2022 12:52:34.780 | INFO | main.py | on_ready |     Arun Testing Co. (ID: 834213187468394517)
+25/04/2022 12:52:34.780 | INFO | main.py | on_ready |     Arun Shipping Co. (ID: 870789318501871706)
+25/04/2022 12:52:43.082 | DEBUG | main.py | on_message | Message sent by MUIArun
+25/04/2022 12:56:29.437 | DEBUG | main.py | on_ready | Connected!
+25/04/2022 12:56:29.437 | INFO | main.py | on_ready | MR Bill is ready (finished on_ready)
+25/04/2022 12:56:29.438 | INFO | main.py | on_ready | MR Bill is ready (commencing on_ready)
+25/04/2022 12:56:29.438 | INFO | main.py | on_ready | MR Bill is connected to the following guilds:
+25/04/2022 12:56:29.438 | INFO | main.py | on_ready |     Humphrey's Bean Zone (ID: 808266016614121512)
+25/04/2022 12:56:29.438 | INFO | main.py | on_ready |     Arun Testing Co. (ID: 834213187468394517)
+25/04/2022 12:56:29.439 | INFO | main.py | on_ready |     Arun Shipping Co. (ID: 870789318501871706)
+25/04/2022 12:56:31.448 | DEBUG | main.py | on_message | Message sent by MUIArun
+25/04/2022 12:56:42.183 | DEBUG | main.py | on_message | Message sent by MUIArun
+25/04/2022 12:57:51.051 | DEBUG | main.py | on_ready | Connected!
+25/04/2022 12:57:51.051 | INFO | main.py | on_ready | MR Bill is ready (finished on_ready)
+25/04/2022 12:57:51.052 | INFO | main.py | on_ready | MR Bill is ready (commencing on_ready)
+25/04/2022 12:57:51.052 | INFO | main.py | on_ready | MR Bill is connected to the following guilds:
+25/04/2022 12:57:51.052 | INFO | main.py | on_ready |     Humphrey's Bean Zone (ID: 808266016614121512)
+25/04/2022 12:57:51.053 | INFO | main.py | on_ready |     Arun Testing Co. (ID: 834213187468394517)
+25/04/2022 12:57:51.053 | INFO | main.py | on_ready |     Arun Shipping Co. (ID: 870789318501871706)
+25/04/2022 12:57:54.726 | DEBUG | main.py | on_message | Message sent by MUIArun

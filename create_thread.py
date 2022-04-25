@@ -20,7 +20,6 @@ async def create_thread(self, name, minutes, message): # https://pastebin.com/kA
 async def create_thread_message(token,thread,content, tts=False, embeds=None): # Made from the corpse of helminth
     token = 'Bot ' + token
     channel_id = int(thread["id"])
-    print(channel_id)
     headers = {
         "authorization": token,
         "content-type": "application/json"
