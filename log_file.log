@@ -864,3 +864,143 @@
 25/04/2022 19:03:02.727 | INFO | main.py | on_ready |     Arun Shipping Co. (ID: 870789318501871706)
 25/04/2022 19:03:04.728 | DEBUG | main.py | on_message | Message sent by MUIArun
 25/04/2022 19:11:52.904 | INFO | main.py | on_disconnect | Bot disconnected
+25/04/2022 20:59:18.106 | DEBUG | main.py | on_ready | Connected!
+25/04/2022 20:59:18.106 | INFO | main.py | on_ready | MR Bill is ready (finished on_ready)
+25/04/2022 20:59:18.106 | INFO | main.py | on_ready | MR Bill is ready (commencing on_ready)
+25/04/2022 20:59:18.107 | INFO | main.py | on_ready | MR Bill is connected to the following guilds:
+25/04/2022 20:59:18.107 | INFO | main.py | on_ready |     Humphrey's Bean Zone (ID: 808266016614121512)
+25/04/2022 20:59:18.107 | INFO | main.py | on_ready |     Arun Testing Co. (ID: 834213187468394517)
+25/04/2022 20:59:18.107 | INFO | main.py | on_ready |     Arun Shipping Co. (ID: 870789318501871706)
+25/04/2022 23:38:10.611 | INFO | main.py | on_disconnect | Bot disconnected
+26/04/2022 00:09:35.638 | DEBUG | main.py | on_message | Message sent by Sirius II
+26/04/2022 00:10:42.960 | DEBUG | main.py | on_message | Message sent by Sirius II
+26/04/2022 00:11:00.112 | DEBUG | main.py | on_message | Message sent by Sirius II
+26/04/2022 00:16:25.364 | DEBUG | main.py | on_message | Message sent by Sirius II
+26/04/2022 00:17:17.766 | DEBUG | main.py | on_message | Message sent by Sirius II
+26/04/2022 00:18:44.410 | DEBUG | main.py | on_message | Message sent by Sirius II
+26/04/2022 00:19:21.221 | DEBUG | main.py | on_message | Message sent by Sirius II
+26/04/2022 00:19:32.534 | DEBUG | main.py | on_message | Message sent by Sirius II
+26/04/2022 00:21:42.604 | DEBUG | main.py | on_message | Message sent by Sirius II
+26/04/2022 00:21:55.436 | DEBUG | main.py | on_message | Message sent by Sirius II
+27/04/2022 10:41:05.230 | DEBUG | main.py | on_ready | Connected!
+27/04/2022 10:41:05.249 | INFO | main.py | on_ready | MR Bill is ready (finished on_ready)
+27/04/2022 10:41:05.249 | INFO | main.py | on_ready | MR Bill is ready (commencing on_ready)
+27/04/2022 10:41:05.249 | INFO | main.py | on_ready | MR Bill is connected to the following guilds:
+27/04/2022 10:41:05.249 | INFO | main.py | on_ready |     Humphrey's Bean Zone (ID: 808266016614121512)
+27/04/2022 10:41:05.249 | INFO | main.py | on_ready |     Arun Testing Co. (ID: 834213187468394517)
+27/04/2022 10:41:05.249 | INFO | main.py | on_ready |     Arun Shipping Co. (ID: 870789318501871706)
+27/04/2022 10:41:11.559 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 10:41:18.413 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 10:41:42.802 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 10:42:19.803 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 10:42:39.953 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 10:43:03.188 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 10:43:08.527 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 13:57:02.927 | INFO | main.py | on_disconnect | Bot disconnected
+27/04/2022 16:14:36.429 | DEBUG | main.py | on_ready | Connected!
+27/04/2022 16:14:36.429 | INFO | main.py | on_ready | Last disconnect was 2022-04-27 13:57:02.928287
+27/04/2022 16:14:36.430 | INFO | main.py | on_ready | MR Bill is ready (finished on_ready)
+27/04/2022 16:14:36.430 | INFO | main.py | on_ready | MR Bill is ready (commencing on_ready)
+27/04/2022 16:14:36.430 | INFO | main.py | on_ready | MR Bill is connected to the following guilds:
+27/04/2022 16:14:36.430 | INFO | main.py | on_ready |     Humphrey's Bean Zone (ID: 808266016614121512)
+27/04/2022 16:14:36.430 | INFO | main.py | on_ready |     Arun Testing Co. (ID: 834213187468394517)
+27/04/2022 16:14:36.430 | INFO | main.py | on_ready |     Arun Shipping Co. (ID: 870789318501871706)
+27/04/2022 16:16:45.364 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 16:16:50.794 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 16:16:56.913 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 16:55:35.065 | INFO | main.py | on_disconnect | Bot disconnected
+27/04/2022 20:36:22.014 | DEBUG | main.py | on_message | Message sent by IkelosOne
+27/04/2022 20:44:27.570 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 20:44:34.420 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 20:52:36.346 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 20:52:45.579 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 20:53:06.629 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 22:05:48.320 | DEBUG | main.py | on_message | Message sent by IkelosOne
+27/04/2022 22:06:01.555 | DEBUG | main.py | on_message | Message sent by IkelosOne
+27/04/2022 22:06:09.352 | DEBUG | main.py | on_message | Message sent by IkelosOne
+27/04/2022 22:06:40.842 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 22:06:46.642 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 22:06:51.612 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 22:07:05.436 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 22:07:23.138 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 22:11:28.237 | DEBUG | main.py | on_message | Message sent by IkelosOne
+27/04/2022 22:11:35.442 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 22:11:44.273 | DEBUG | main.py | on_message | Message sent by IkelosOne
+27/04/2022 22:11:46.591 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 22:11:54.042 | DEBUG | main.py | on_message | Message sent by IkelosOne
+27/04/2022 22:12:03.151 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 22:12:19.251 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 22:12:42.624 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 22:12:53.184 | DEBUG | main.py | on_message | Message sent by IkelosOne
+27/04/2022 22:12:55.985 | DEBUG | main.py | on_message | Message sent by IkelosOne
+27/04/2022 22:13:04.237 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 22:13:14.589 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 22:13:40.773 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 22:13:50.437 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 22:14:03.700 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 22:14:16.276 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 22:15:27.247 | DEBUG | main.py | on_message | Message sent by IkelosOne
+27/04/2022 22:20:16.846 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 22:46:45.343 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 22:46:51.689 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 22:47:12.301 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 22:47:15.484 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 23:02:50.964 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+27/04/2022 23:59:33.387 | DEBUG | main.py | on_message | Message sent by MUIArun
+27/04/2022 23:59:40.803 | DEBUG | main.py | on_message | Message sent by MUIArun
+02/05/2022 10:30:42.236 | DEBUG | main.py | on_ready | Connected!
+02/05/2022 10:30:42.236 | INFO | main.py | on_ready | MR Bill is ready (finished on_ready)
+02/05/2022 10:30:42.236 | INFO | main.py | on_ready | MR Bill is ready (commencing on_ready)
+02/05/2022 10:30:42.236 | INFO | main.py | on_ready | MR Bill is connected to the following guilds:
+02/05/2022 10:30:42.236 | INFO | main.py | on_ready |     Humphrey's Bean Zone (ID: 808266016614121512)
+02/05/2022 10:30:42.236 | INFO | main.py | on_ready |     Arun Testing Co. (ID: 834213187468394517)
+02/05/2022 10:30:42.236 | INFO | main.py | on_ready |     Arun Shipping Co. (ID: 870789318501871706)
+02/05/2022 10:30:47.818 | DEBUG | main.py | on_message | Message sent by MUIArun
+02/05/2022 10:31:28.405 | DEBUG | main.py | on_message | Message sent by cameronjs.ugp
+02/05/2022 10:31:42.596 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+02/05/2022 10:32:03.592 | DEBUG | main.py | on_message | Message sent by MUIArun
+02/05/2022 10:32:15.463 | DEBUG | main.py | on_message | Message sent by chef
+02/05/2022 10:32:16.758 | DEBUG | main.py | on_message | Message sent by chef
+02/05/2022 10:32:49.195 | DEBUG | main.py | on_message | Message sent by MUIArun
+02/05/2022 10:32:58.040 | DEBUG | main.py | on_message | Message sent by MUIArun
+02/05/2022 10:34:29.303 | DEBUG | main.py | on_message | Message sent by cameronjs.ugp
+02/05/2022 10:34:34.730 | DEBUG | main.py | on_message | Message sent by cameronjs.ugp
+02/05/2022 10:34:38.826 | DEBUG | main.py | on_message | Message sent by MUIArun
+02/05/2022 10:34:39.209 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+02/05/2022 10:34:53.393 | DEBUG | main.py | on_message | Message sent by cameronjs.ugp
+02/05/2022 10:34:59.476 | DEBUG | main.py | on_message | Message sent by cameronjs.ugp
+02/05/2022 10:35:05.260 | DEBUG | main.py | on_message | Message sent by cameronjs.ugp
+02/05/2022 10:35:07.103 | DEBUG | main.py | on_message | Message sent by MUIArun
+02/05/2022 10:35:26.833 | DEBUG | main.py | on_message | Message sent by cameronjs.ugp
+02/05/2022 10:35:57.159 | DEBUG | main.py | on_message | Message sent by MUIArun
+02/05/2022 10:35:58.248 | DEBUG | main.py | on_message | Message sent by cameronjs.ugp
+02/05/2022 10:36:02.458 | DEBUG | main.py | on_message | Message sent by MUIArun
+02/05/2022 10:36:32.231 | DEBUG | main.py | on_message | Message sent by cameronjs.ugp
+02/05/2022 10:36:39.598 | DEBUG | main.py | on_message | Message sent by cameronjs.ugp
+02/05/2022 10:36:51.831 | DEBUG | main.py | on_message | Message sent by MUIArun
+02/05/2022 10:37:03.686 | DEBUG | main.py | on_message | Message sent by MUIArun
+02/05/2022 10:37:19.102 | DEBUG | main.py | on_message | Message sent by MUIArun
+02/05/2022 10:37:44.271 | DEBUG | main.py | on_message | Message sent by chef
+02/05/2022 10:38:06.463 | DEBUG | main.py | on_message | Message sent by MUIArun
+02/05/2022 10:38:18.218 | DEBUG | main.py | on_message | Message sent by MUIArun
+02/05/2022 10:38:29.415 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+02/05/2022 10:39:05.950 | DEBUG | main.py | on_message | Message sent by Wucashade Citrus Chill
+02/05/2022 10:39:46.965 | DEBUG | main.py | on_message | Message sent by cameronjs.ugp
+02/05/2022 10:42:16.535 | DEBUG | main.py | on_message | Message sent by chef
+02/05/2022 11:02:08.115 | DEBUG | main.py | on_message | Message sent by MUIArun
+02/05/2022 11:02:18.473 | DEBUG | main.py | on_message | Message sent by MUIArun
+02/05/2022 11:02:39.365 | DEBUG | main.py | on_message | Message sent by MUIArun
+02/05/2022 11:04:27.768 | DEBUG | main.py | on_ready | Connected!
+02/05/2022 11:04:27.768 | INFO | main.py | on_ready | MR Bill is ready (finished on_ready)
+02/05/2022 11:04:27.768 | INFO | main.py | on_ready | MR Bill is ready (commencing on_ready)
+02/05/2022 11:04:27.768 | INFO | main.py | on_ready | MR Bill is connected to the following guilds:
+02/05/2022 11:04:27.768 | INFO | main.py | on_ready |     Humphrey's Bean Zone (ID: 808266016614121512)
+02/05/2022 11:04:27.768 | INFO | main.py | on_ready |     Arun Testing Co. (ID: 834213187468394517)
+02/05/2022 11:04:27.768 | INFO | main.py | on_ready |     Arun Shipping Co. (ID: 870789318501871706)
+02/05/2022 11:04:31.381 | DEBUG | main.py | on_message | Message sent by MUIArun
+02/05/2022 11:04:50.681 | DEBUG | main.py | on_message | Message sent by MUIArun
+02/05/2022 11:05:27.031 | DEBUG | main.py | on_message | Message sent by MUIArun
+02/05/2022 11:06:46.368 | DEBUG | main.py | on_message | Message sent by cameronjs.ugp
+02/05/2022 11:06:56.740 | DEBUG | main.py | on_message | Message sent by cameronjs.ugp
+02/05/2022 11:06:59.830 | DEBUG | main.py | on_message | Message sent by cameronjs.ugp
+02/05/2022 11:07:08.219 | DEBUG | main.py | on_message | Message sent by cameronjs.ugp

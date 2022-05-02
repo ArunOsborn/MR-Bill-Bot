@@ -150,6 +150,8 @@ class MyClient(discord.ext.commands.Bot):
 				biller = Bill.Bill(path=message.attachments[0].url)
 				await message.channel.send("Attachments are not fully supported but we'll have a go...")
 		else:
+			if message.content.startswith("```"):
+				message.content = message.content[3:-3]
 			biller = Bill.Bill(text=message.content)
 		totalsPrintout = biller.getTotalsPrintout()
 		totalsPrintout = discord.Embed(title=f"Bill of £{round(biller.totalCost)}",description=totalsPrintout,colour=0X378805)
